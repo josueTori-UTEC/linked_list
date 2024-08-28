@@ -1,0 +1,4 @@
+# ninja log v6
+6	525	7465784854070337	build.ninja	c4382a53f2ef45df
+47	735	7465784855472799	CMakeFiles/linked_list.dir/main.cpp.obj	6a85c9c408d04888
+738	1006	7465784862378488	linked_list.exe	29a32cabf157052c
